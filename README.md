@@ -24,7 +24,7 @@
 * [Improvements](#improvements)
 * [Credits](#credits)
 
-This very basic and simple text-based game is created for the command line with C to practice the basics of C#.
+This very basic and simple text-based game is created for the command line to practice the basics of C#.
 
 ## Features
 - The game has a starting screen
