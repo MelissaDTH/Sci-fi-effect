@@ -32,9 +32,9 @@ This very basic and simple text-based game is created for the command line to pr
 - ASCII art is used to visualize what is happening
 - At the end of the game, there's summary of which decisions and items the player has found. They're congratulated when they've chosen a specific item during the game.
 
-## Improvements
-- The code is now in 1 file, should be refactored
-- The story is very short, should be expanded
+## :clipboard: Improvements :clipboard:
+- All the code is now in 1 file, should be refactored
+- The story is very short, should be expanded with more outcomes and options
 
 ## Credits
 
